@@ -1,0 +1,65 @@
+html
+{
+  height: 100%;
+}
+body{
+  margin: 0px;
+  background-color: #E0FFFF;
+}
+
+#background
+{
+  margin-top:-120px;
+  background:url(../image/periodetrias1.jpg) no-repeat;
+  background-size:cover;
+  padding-top:111px;
+  height:638px;
+  max-height:1112px;
+}
+#periodetrias{
+  text-align: center;
+}
+
+#periodetrias .container h1{
+  margin:36px;
+}
+
+#periodetrias .container .row{
+  margin:-3px;
+}
+
+#periodetrias .isi .container.atas{
+  background-color:#fff;
+  margin-top:-85px;
+  padding-bottom:37px;
+}
+
+#about{
+  background-color: #C9FF7B;
+  margin-top: 79px;
+  color: black;
+}
+
+#about .container{
+  width: 90%;
+  padding: 40px;
+}
+
+#about .container.footer .col-lg-6.col-md-6.col-sm-12.col-xs-12{
+  font-family: raleway;
+  color:#000000;
+}
+#icon{
+  color:white;
+  font-size:37px;
+  margin-top:20px;
+  position:static;
+}
+
+#icon i.fab fa-instagram{
+  margin-left:17px;
+}
+
+#icon i.far fa-envelope{
+  margin-left:17px;
+}
